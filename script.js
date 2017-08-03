@@ -55,6 +55,6 @@ $(document).ready(function(){
 
   $('.slides_wrapper').on('mouseenter', pauseSlider).on('mouseleave', startSlider);
 
-  startSlider();
+ startSlider();
 
 });
